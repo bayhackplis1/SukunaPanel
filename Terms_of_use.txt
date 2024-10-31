@@ -1,0 +1,15 @@
+# Penolakan Tanggung Jawab
+**Perhatian: Harap dibaca dengan seksama sebelum menggunakan script ini.** Script ini disediakan hanya untuk tujuan 
+pembelajaran dan penelitian semata. Penggunaan script ini adalah tanggung jawab penuh dari pengguna. Pembuat script tidak 
+mendukung atau mendorong penggunaan script ini untuk aktivitas yang melanggar hukum atau merugikan orang lain. Script ini 
+dirancang untuk memberikan pemahaman tentang cara kerja teknis dan mekanisme tertentu dalam dunia pemrograman. Dengan 
+menggunakan script ini, pengguna setuju untuk menggunakannya secara bertanggung jawab dan etis. Pembuat script tidak 
+bertanggung jawab atas tindakan yang dilakukan oleh pengguna menggunakan script ini. Pengguna diharapkan untuk menggunakan 
+script ini hanya untuk belajar dan eksperimen, serta untuk tidak menyalahgunakan keahlian yang diperoleh dari script ini 
+untuk tujuan yang merugikan atau ilegal. Dengan menggunakan script ini, pengguna setuju untuk membebaskan pembuat script 
+dari segala tanggung jawab atas kerugian atau kerusakan yang mungkin timbul dari penggunaan atau ketidakmampuan 
+menggunakan script ini. Pengguna disarankan untuk membaca dan memahami sepenuhnya syarat dan ketentuan ini sebelum 
+menggunakan script. Dengan menggunakan script ini, pengguna dianggap telah menyetujui semua syarat dan ketentuan yang 
+tercantum di atas.
+Terima kasih atas pemahaman dan kerjasamanya.
+
